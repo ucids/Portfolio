@@ -1,0 +1,332 @@
+{
+  "basics": {
+    "name": "Uriel Cid",
+    "label": "Full-Stack developer with more than 5 years of experience",
+    "image": "/me.webp",
+    "email": "cidsantos@gmail.com",
+    "phone": "5599436481",
+    "url": "https://ucid.dev",
+    "summary": "+6 years of experience as a web developer. Currently I live in Fresno, California. I have worked in different environments: from accelerating the development of start-ups to be on charge on a developer team.",
+    "location": {
+      "address": "8N street",
+      "postalCode": "93703",
+      "city": "Fresno",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/uriel-cid-santos-074050125/"
+      },
+      {
+        "network": "X",
+        "username": "cidsantii",
+        "url": "https://twitter.com/Cidsantii"
+      },
+      {
+        "network": "GitHub",
+        "username": "ucids",
+        "url": "https://github.com/ucids"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of Orizaba, Mexico",
+      "position": "Web Developer PHP ",
+      "url": "https://www.univo.edu.mx/web/",
+      "startDate": "2017-02-01",
+      "endDate": "2019-12-01",
+      "summary": "I had the opportunity to work in the university of Orizaba, where I developed a platform for the students to upload their projects and the teachers to review them. I also developed a platform for the university to manage the students and teachers.",
+      "highlights": [
+        "Enhanced the platform to support more than 1000 students"
+      ]
+    },
+    {
+      "name": "Integriapp",
+      "position": "Backend Django Developer",
+      "url": "https://integriapp.com/",
+      "startDate": "2019-06-01",
+      "endDate": "2020-09-01",
+      "summary": "I developed the backend for the main platform of the company working with Django and Django Rest Framework. Implemented an Auth system with JWT to manage roles and permissions. Desing and implemented the Landing page of the company.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Katzkin, Tijuana",
+      "position": "Fullstack Developer",
+      "url": "https://katzkin.com",
+      "startDate": "2020-11-01",
+      "endDate": "2024-02-01",
+      "summary": "Fullstack developer in the company, designed the whole server and network, deployed with cloudflare and Docker, doing a whole new process for the Quality process in the company and deployed in production on two sites in the country.",
+      "highlights": [
+        "Started the systems department"
+      ]
+    },
+    {
+      "name": "Cloud Hunter Solutions, Tijuana",
+      "position": "Systems Engineer",
+      "startDate": "2024-01-20",
+      "endDate": "2024-02-01",
+      "summary": "I worked with a team to help companies to have online precense, developing landing pages and proffessional emails based on the domain of the company. I work with SMTP servers to manage emails, cloudflare to manage the DNS and prevent attacks.",
+      "highlights": [
+        "Started the systems department"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Universidad del Valle de Orizaba, Mexico",
+    "url": "https://www.univo.edu.mx/web/index.php",
+    "area": "computerstystems engineer",
+    "studyType": "Bachelor",
+    "startDate": "2015-08-01",
+    "endDate": "2019-09-01",
+    "score": "9.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "CSS Framework", "Design Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Docker Compose",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Active Directory"
+    },
+    {
+      "name": "Website Optimization",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Email Server Configuration",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Network Security",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Network Security with Cisco",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "CDN Management",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "tint559",
+      "isActive": true,
+      "description": "Landing page for a local business in Fresno, California",
+      "highlights": [
+        "Leader of the project",
+        "Online"
+      ],
+      "url": "https://tint559.us/"
+    },
+    {
+      "name": "msbaja.com",
+      "isActive": true,
+      "description": "Landing page for a large welder service company in Tijuana, Mexico",
+      "highlights": [
+        "JavaScript & CSS"
+      ],
+      "url": "https://msbaja.com/"
+    },
+    {
+      "name": "Elite Automotive",
+      "isActive": true,
+      "description": "Online Shop for motor parts and apparel",
+      "highlights": [
+        "+2000 active users",
+        "PHP, Wordpress"
+      ],
+      "url": "https://eliteautomotive.mx/"
+    },
+    {
+      "name": "Katzkin Cloud",
+      "isActive": true,
+      "description": "Landing page for Katzkin Cloud (Internal process for the company)",
+      "highlights": [
+        "Internal process of Katzkin",
+        "Developed with PHP"
+      ],
+      "url": "https://katzkin.cloud/",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pentaco inc",
+      "isActive": true,
+      "description": "Email hosted and landing page for a local business in Tijuana, Mexico",
+      "highlights": [
+        "email hosting"
+      ],
+      "url": "https://pentacoinc.com/",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "Integriapp",
+      "isActive": true,
+      "description": "Landing anc contact page for Integriapp",
+      "highlights": [
+        "CSS",
+        "Darkmode"
+      ],
+      "url": "https://integriapp.com/"
+    }
+  ]
+}
