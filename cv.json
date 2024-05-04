@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Uriel Cid",
-    "label": "Full-Stack developer with more than 5 years of experience",
+    "label": "Full-Stack developer",
     "image": "/me.webp",
     "email": "cidsantos@gmail.com",
     "phone": "5599436481",
     "url": "https://ucid.dev",
-    "summary": "+6 years of experience as a web developer. Currently I live in Fresno, California. I have worked in different environments: from accelerating the development of start-ups to be on charge on a developer team.",
+    "summary": "With over 6 years of experience in web development, I've had the opportunity to work around Mexico and with companies founded in America. Currently based in Fresno, California, I've contributed to the growth of startups and taken on leadership responsibilities within developer teams. My journey in web development has provided me with a solid foundation to tackle challenges and deliver results effectively.",
     "location": {
       "address": "8N street",
       "postalCode": "93703",
@@ -39,7 +39,7 @@
       "url": "https://www.univo.edu.mx/web/",
       "startDate": "2017-02-01",
       "endDate": "2019-12-01",
-      "summary": "I had the opportunity to work in the university of Orizaba, where I developed a platform for the students to upload their projects and the teachers to review them. I also developed a platform for the university to manage the students and teachers.",
+      "summary": "I had the opportunity to work at my alma mater, where I faced a legacy system, which was outdated. I upgraded  successfully to a modern system using PHP, PostgreSQL, AJAX, and JavaScript. Additionally, I developed a new system for the university to manage all internal operations, from student registrations and role management to grade validation and submission of government validation documents.",
       "highlights": [
         "Enhanced the platform to support more than 1000 students"
       ]
@@ -50,18 +50,18 @@
       "url": "https://integriapp.com/",
       "startDate": "2019-06-01",
       "endDate": "2020-09-01",
-      "summary": "I developed the backend for the main platform of the company working with Django and Django Rest Framework. Implemented an Auth system with JWT to manage roles and permissions. Desing and implemented the Landing page of the company.",
+      "summary": "I developed the backend for the company's main platform using Django and Django Rest Framework. I also implemented an authentication system using JWT, which effectively managed roles and permissions. Additionally, I designed and implemented the company's landing page, enhancing our online presence and user engagement.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Katzkin, Tijuana",
-      "position": "Fullstack Developer",
+      "position": "IT Service Desk Ticketing",
       "url": "https://katzkin.com",
       "startDate": "2020-11-01",
       "endDate": "2024-02-01",
-      "summary": "Fullstack developer in the company, designed the whole server and network, deployed with cloudflare and Docker, doing a whole new process for the Quality process in the company and deployed in production on two sites in the country.",
+      "summary": "I enjoyed helping users worldwide while working at an international company, where I was responsible for managing the ticketing system and overseeing the IT department. Additionally, I initiated a project to improve our shipping department's processes. I developed a Quality System that required taking photos and documenting evidence of products before they were shipped. This new system was implemented company-wide and successfully reduced the number of returns and lost packages.",
       "highlights": [
         "Started the systems department"
       ]
@@ -202,44 +202,6 @@
     },
     {
       "name": "Windows Server",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Active Directory"
-    },
-    {
-      "name": "Website Optimization",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Email Server Configuration",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Network Security",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Network Security with Cisco",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "CDN Management",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "JavaScript Library", "UI"

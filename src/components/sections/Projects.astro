@@ -6,13 +6,13 @@ import { projects } from "@cv";
 <Section title="Projects">
   <ul>
     {
-      projects.map(({ url, description, highlights, name, isActive }) => {
+      projects.map(({ description, highlights, name, isActive, url }) => {
         return (
           <li>
             <article>
               <header>
                 <h3>
-                  <a href="{url}" title={`See the project ${name}`}>
+                  <a href={url} title={`See the project ${name}`} target="_blank">
                     {name}
                   </a>
                   {isActive && <span>•</span>}
