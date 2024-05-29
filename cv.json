@@ -6,7 +6,7 @@
     "email": "cidsantos@gmail.com",
     "phone": "5599436481",
     "url": "https://ucid.dev",
-    "summary": "With over 6 years of experience in web development, I've had the opportunity to work around Mexico and with companies founded in America. Currently based in Fresno, California, I've contributed to the growth of startups and taken on leadership responsibilities within developer teams. My journey in web development has provided me with a solid foundation to tackle challenges and deliver results effectively.",
+    "summary": "Hello world! I am a versatile full-stack developer with over 6 years of experience. I have a strong background in web development. I love to expent time on my computer, there is always new things to learn. My main tools are PHP, Javascript, Python, SQL, Docker, Node.js, Express, Git. But always looking for the best tool for every proyect. The best part of this journey is to be witness and feel that my work is useful for the end user",
     "location": {
       "address": "8N street",
       "postalCode": "93703",
@@ -37,9 +37,9 @@
       "name": "University of Orizaba, Mexico",
       "position": "Web Developer PHP ",
       "url": "https://www.univo.edu.mx/web/",
-      "startDate": "2017-02-01",
-      "endDate": "2019-12-01",
-      "summary": "I had the opportunity to work at my alma mater, where I faced a legacy system, which was outdated. I upgraded  successfully to a modern system using PHP, PostgreSQL, AJAX, and JavaScript. Additionally, I developed a new system for the university to manage all internal operations, from student registrations and role management to grade validation and submission of government validation documents.",
+      "startDate": "2015-02-01",
+      "endDate": "2017-12-01",
+      "summary": "I had the opportunity to work at my alma mater. Spearheaded the modernization of a legacy system, transitioning it from outdated infrastructure to a cutting-edge platform using PHP, PostgreSQL, AJAX, and JavaScript. Conceptualized and developed a comprehensive internal management system for the university, streamlining operations related to student registrations, role management, grade validation, and submission of government validation documents. The system was successfully implemented and is currently used by more than 1000 students. 📖",
       "highlights": [
         "Enhanced the platform to support more than 1000 students"
       ]
@@ -48,30 +48,30 @@
       "name": "Integriapp",
       "position": "Backend Django Developer",
       "url": "https://integriapp.com/",
-      "startDate": "2019-06-01",
-      "endDate": "2020-09-01",
-      "summary": "I developed the backend for the company's main platform using Django and Django Rest Framework. I also implemented an authentication system using JWT, which effectively managed roles and permissions. Additionally, I designed and implemented the company's landing page, enhancing our online presence and user engagement.",
+      "startDate": "2017-06-01",
+      "endDate": "2018-09-01",
+      "summary": "I had the pleasure of working with a team of developers under the guidelines of good practice and agile methodologies. I was responsible for developing the backend of the main platform. The frontend was developed with Angular and the backend with Django, we work under Json Web Tokens for the authentication and the data was stored in a PostgreSQL database all under an AWS instance. 🚀",
       "highlights": [
         "Started the company"
+      ]
+    },
+    {
+      "name": "Cloud Hunter Solutions, Tijuana",
+      "position": "Systems Engineer",
+      "startDate": "2019-01-20",
+      "endDate": "2021-02-01",
+      "summary": "Collaborated with a diverse team to assist companies in establishing a strong online presence, specializing in the development of customized landing pages and professional email setups tailored to each company's domain. Leveraged expertise in SMTP servers to effectively manage email communications, ensuring reliable delivery and inbox placement. Implemented Cloudflare to manage DNS settings and mitigate security threats, safeguarding websites against potential attacks and ensuring uninterrupted service. Worked closely with clients to understand their unique requirements, providing personalized solutions to enhance their brand visibility and customer engagement. Contributed to the growth of the team's portfolio by delivering high-quality web solutions, resulting in increased customer satisfaction and retention.",
+      "highlights": [
+        "Started the systems department"
       ]
     },
     {
       "name": "Katzkin, Tijuana",
       "position": "IT Service Desk Ticketing",
       "url": "https://katzkin.com",
-      "startDate": "2020-11-01",
+      "startDate": "2021-11-01",
       "endDate": "2024-02-01",
-      "summary": "I enjoyed helping users worldwide while working at an international company, where I was responsible for managing the ticketing system and overseeing the IT department. Additionally, I initiated a project to improve our shipping department's processes. I developed a Quality System that required taking photos and documenting evidence of products before they were shipped. This new system was implemented company-wide and successfully reduced the number of returns and lost packages.",
-      "highlights": [
-        "Started the systems department"
-      ]
-    },
-    {
-      "name": "Cloud Hunter Solutions, Tijuana",
-      "position": "Systems Engineer",
-      "startDate": "2024-01-20",
-      "endDate": "2024-02-01",
-      "summary": "I worked with a team to help companies to have online precense, developing landing pages and proffessional emails based on the domain of the company. I work with SMTP servers to manage emails, cloudflare to manage the DNS and prevent attacks.",
+      "summary": "I enjoyed helping users worldwide while working at an international company, where I was responsible for managing the ticketing system and overseeing the IT department. Additionally, I initiated a project to improve our quality department's processes. I developed a Quality System that required taking photos and documenting evidence of products before they were shipped, including logos and specific parts of the final product. This new system was implemented company-wide (Baja California - Montebello) and successfully reduced the number of returns and lost packages.",
       "highlights": [
         "Started the systems department"
       ]
@@ -81,7 +81,7 @@
     "institution": "Universidad del Valle de Orizaba, Mexico",
     "url": "https://www.univo.edu.mx/web/index.php",
     "area": "computerstystems engineer",
-    "studyType": "Bachelor",
+    "studyType": "Bachelor Graduated",
     "startDate": "2015-08-01",
     "endDate": "2019-09-01",
     "score": "9.0",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "GitHub",
+      "name": "SSH",
       "level": "Advanced",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Docker Compose",
+      "name": "Express",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
