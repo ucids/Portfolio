@@ -77,6 +77,18 @@
       ]
     }
   ],
+  "education": [{
+    "institution": "University of the Orizaba Valley",
+    "url": "https://www.univo.edu.mx/web/index.php",
+    "area": "computerstystems engineer",
+    "studyType": "Bachelor Graduated",
+    "startDate": "2015-08-01",
+    "endDate": "2019-09-01",
+    "score": "9.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
