@@ -6,7 +6,7 @@
     "email": "cidsantos@gmail.com",
     "phone": "5599436481",
     "url": "https://ucid.dev",
-    "summary": "Hello world! I am a versatile full-stack developer with over 6 years of experience. I have a strong background in web development. I love to expent time on my computer, there is always new things to learn. My main tools are PHP, Javascript, Python, SQL, Docker, Node.js, Express, Git. But always looking for the best tool for every proyect. The best part of this journey is to be witness and feel that my work is useful for the end user",
+    "summary": "Hello world! I am a Versatile IT professional with over six years of experience in IT support, system administration, and web development. Proven expertise in managing Windows OS environments, Active Directory, Exchange/M365, and network configurations (TCP/IP, DNS, DHCP). Adept at providing exceptional help desk support, troubleshooting technical issues, and implementing scalable IT solutions. Passionate about leveraging technology to streamline processes and improve user experiences.",
     "location": {
       "address": "8N street",
       "postalCode": "93703",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "ucids",
         "url": "https://www.linkedin.com/in/uriel-cid-santos-074050125/"
       },
       {
@@ -34,7 +34,7 @@
   },
   "work": [
     {
-      "name": "University of Orizaba, Mexico",
+      "name": "University of Orizaba Valley",
       "position": "Web Developer PHP ",
       "url": "https://www.univo.edu.mx/web/",
       "startDate": "2015-02-01",
@@ -60,7 +60,7 @@
       "position": "Systems Engineer",
       "startDate": "2019-01-20",
       "endDate": "2021-02-01",
-      "summary": "Collaborated with a diverse team to assist companies in establishing a strong online presence, specializing in the development of customized landing pages and professional email setups tailored to each company's domain. Leveraged expertise in SMTP servers to effectively manage email communications, ensuring reliable delivery and inbox placement. Implemented Cloudflare to manage DNS settings and mitigate security threats, safeguarding websites against potential attacks and ensuring uninterrupted service. Worked closely with clients to understand their unique requirements, providing personalized solutions to enhance their brand visibility and customer engagement. Contributed to the growth of the team's portfolio by delivering high-quality web solutions, resulting in increased customer satisfaction and retention.",
+      "summary": "Collaborated with a diverse team to assist companies in establishing a strong online presence, specializing in the development of customized landing pages and professional SMTP setups tailored to each company's domain. Leveraged expertise in SMTP servers to effectively manage email communications, ensuring reliable delivery and inbox placement. Implemented Cloudflare to manage DNS settings and mitigate security threats, safeguarding websites against potential attacks and ensuring uninterrupted service. Worked closely with clients to understand their unique requirements, providing personalized solutions to enhance their brand visibility and customer engagement. Contributed to the growth of the team's portfolio by delivering high-quality web solutions, resulting in increased customer satisfaction and retention.",
       "highlights": [
         "Started the systems department"
       ]
@@ -71,7 +71,7 @@
       "url": "https://katzkin.com",
       "startDate": "2021-11-01",
       "endDate": "2024-02-01",
-      "summary": "I enjoyed helping users worldwide while working at an international company, where I was responsible for managing the ticketing system and overseeing the IT department. Additionally, I initiated a project to improve our quality department's processes. I developed a Quality System that required taking photos and documenting evidence of products before they were shipped, including logos and specific parts of the final product. This new system was implemented company-wide (Baja California - Montebello) and successfully reduced the number of returns and lost packages.",
+      "summary": "I enjoyed helping users worldwide while working at an international company, where I was responsible for managing the ticketing system and overseeing the IT department. Managed Windows OS environments for global users, troubleshooting OS and software-related issues. Administered Active Directory, handling user accounts, group policies, and permissions. Supported Microsoft Exchange/M365 email configurations, ensuring secure and reliable communication. Diagnosed and resolved network issues, including TCP/IP, DNS, and DHCP configurations. Provided Tier 1 and Tier 2 support via the ticketing system, achieving a 95% first-call resolution rate. Developed a company-wide Quality System to improve product validation processes.",
       "highlights": [
         "Started the systems department"
       ]
